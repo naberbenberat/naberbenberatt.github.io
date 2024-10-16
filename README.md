@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
->Benim Websiteme Hoşgeldin!
+Benim Websiteme Hoşgeldin!
 </head>
 <body>
 <h1>HOŞGELDİN!</h1>

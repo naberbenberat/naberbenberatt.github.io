@@ -1,7 +1,7 @@
-<!DOCTYPE html>
+
 <html>
 <head>
-Benim Websiteme Hoşgeldin!
+Merhaba Ben Berat ve Benim Websiteme Hoşgeldin!
 </head>
 <body>
 <h1>HOŞGELDİN!</h1>
